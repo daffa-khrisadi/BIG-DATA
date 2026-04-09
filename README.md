@@ -1,5 +1,5 @@
 # Climate Data Analysis using BMKG Dataset
-# Project Overview
+# Gambaran Project
 Proyek ini berfokus pada analisis data iklim harian dengan pendekatan Big Data, khususnya menggunakan konsep 5V untuk mengevaluasi karakteristik dataset.
 
 Data yang digunakan mencakup berbagai parameter atmosfer seperti suhu, kelembapan, curah hujan, penyinaran matahari, serta kecepatan dan arah angin. Melalui analisis ini, diharapkan dapat diperoleh pemahaman mengenai pola cuaca, tren musiman, serta indikasi kejadian cuaca ekstrem.
@@ -14,13 +14,6 @@ Data diambil dari:
 
 Dataset ini merupakan data resmi yang digunakan untuk pemantauan kondisi cuaca dan iklim di Indonesia.
 
-# Objectives
-- Menganalisis karakteristik data iklim menggunakan konsep 5V Big Data
-- Mengidentifikasi pola distribusi parameter iklim
-- Mendeteksi anomali cuaca ekstrem
-- Memahami hubungan antar parameter iklim
-- Menghasilkan insight berbasis data untuk berbagai sektor
-
 # Tujuan Analisis
 Tujuan analisis adalah untuk membuktikan bahwa dataset iklim harian memenuhi karakteristik Big Data serta menghasilkan insight yang bermanfaat.
 
@@ -29,6 +22,13 @@ Analisis difokuskan pada:
 - Pola time series (tren waktu)
 - Hubungan antar parameter (cuaca & iklim)
 Tidak hanya eksplorasi data, tetapi juga interpretasi terhadap kondisi iklim yang terjadi.
+
+# Objectives
+- Menganalisis karakteristik data iklim menggunakan konsep 5V Big Data
+- Mengidentifikasi pola distribusi parameter iklim
+- Mendeteksi anomali cuaca ekstrem
+- Memahami hubungan antar parameter iklim
+- Menghasilkan insight berbasis data untuk berbagai sektor
 
 # Dataset
 Dataset yang digunakan adalah data iklim harian BMKG dengan karakteristik:
