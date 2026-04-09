@@ -15,20 +15,18 @@ Data diambil dari:
 Dataset ini merupakan data resmi yang digunakan untuk pemantauan kondisi cuaca dan iklim di Indonesia.
 
 # Tujuan Analisis
-Tujuan analisis adalah untuk membuktikan bahwa dataset iklim harian memenuhi karakteristik Big Data serta menghasilkan insight yang bermanfaat.
+Tujuan analisis project ini adalah untuk membuktikan bahwa dataset iklim harian memenuhi karakteristik Big Data serta menghasilkan insight yang bermanfaat.
 
 Analisis difokuskan pada:
 - Distribusi data (EDA)
 - Pola time series (tren waktu)
 - Hubungan antar parameter (cuaca & iklim)
-Tidak hanya eksplorasi data, tetapi juga interpretasi terhadap kondisi iklim yang terjadi.
-
-# Objectives
 - Menganalisis karakteristik data iklim menggunakan konsep 5V Big Data
 - Mengidentifikasi pola distribusi parameter iklim
 - Mendeteksi anomali cuaca ekstrem
 - Memahami hubungan antar parameter iklim
 - Menghasilkan insight berbasis data untuk berbagai sektor
+Tidak hanya eksplorasi data, tetapi juga interpretasi terhadap kondisi iklim yang terjadi.
 
 # Dataset
 Dataset yang digunakan adalah data iklim harian BMKG dengan karakteristik:
